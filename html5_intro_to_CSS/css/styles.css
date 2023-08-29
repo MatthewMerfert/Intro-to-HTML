@@ -1,0 +1,11 @@
+body{
+    background-color: chocolate;
+}
+
+#container {
+    background-color: aquamarine;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid blue;
+}
